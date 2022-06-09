@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "react-router": "^6.2.1"
+  },
+  "name": "employee",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janunavya/Employee-Details.git"
+  },
+  "author": "Janaki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Janunavya/Employee-Details/issues"
+  },
+  "homepage": "https://github.com/Janunavya/Employee-Details#readme",
+  "description": ""
+}
